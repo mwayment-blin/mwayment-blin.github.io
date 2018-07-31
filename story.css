@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'InterFace';
+    src: local('InterFace'),url('InterFace.ttf') format('truetype');
+}
+
+body {
+    font-family: 'InterFace';
+}
+
+iframe {
+    margin: auto;
+    display: block;
+}
+
+.instagram-media {
+    margin: auto;
+}
